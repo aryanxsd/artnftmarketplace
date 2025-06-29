@@ -111,11 +111,6 @@ MIT License
 
 ---
 
-## 🤝 Connect with Me
-
-- Twitter: [@_priyanshuaryan](https://twitter.com/_priyanshuaryan)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
